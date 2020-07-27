@@ -5,6 +5,9 @@
 * ListTile и Card
 * Распределение на экране
 * Container
+* Шрифты
+* Картинки
+
 
 ### 01 named routes and providers
 
@@ -29,3 +32,15 @@
 * темы
 * вынесенные виджеты
 * экраны
+
+### 05 dicee
+
+* Expanded widget
+* State
+* Картинки
+
+### 06 clima
+
+* async-await
+* permissions
+* detect device
