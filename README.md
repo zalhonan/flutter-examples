@@ -1,6 +1,6 @@
 # Flutter - примеры кода и основные приёмы
 
-### 00 mi card
+### mi card
 
 * ListTile и Card
 * Распределение на экране
@@ -8,39 +8,39 @@
 * Шрифты
 * Картинки
 
+### dicee
 
-### 01 named routes and providers
+* expanded widget
+* state
+* картинки
+* картинки как кнопки
 
-* Роутинг - пути с именами
-* Роутинг - передача параметров в путь
-* Состояние (state) - пример использования Provider v3
-
-### 02 quiz
-
-* разбиение на отдельные виджеты
-* передача в виджет функции с параметрами
-* простой SetState
-
-### 03 personal excpenses
-
-* chart
-* организация нескольких виджетов
-* оформление - темы, стайлинг
-
-### 04 bmi-calculator
+### bmi-calculator
 
 * темы
 * вынесенные виджеты
 * экраны
 
-### 05 dicee
+### named routes and providers
 
-* Expanded widget
-* State
-* Картинки
+* Роутинг - пути с именами
+* Роутинг - передача параметров в путь
+* Состояние (state) - пример использования Provider v3
 
-### 06 clima
+### quiz (from Max)
+
+* разбиение на отдельные виджеты
+* передача в виджет функции с параметрами
+* простой SetState
+
+### personal expences (from max)
+
+* chart
+* организация нескольких виджетов
+* оформление - темы, стайлинг
+
+### clima
 
 * async-await
 * permissions
-* detect device
+* detect device - мой хелпер
