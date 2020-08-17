@@ -44,3 +44,11 @@
 * async-await
 * permissions
 * detect device - мой хелпер
+* использование initState
+
+### bitcoin tracker
+
+* обращение к внешнему серверу за данными
+* контроллер данных в одном файле
+* Android/iOS виджеты
+* DropDownMenu
