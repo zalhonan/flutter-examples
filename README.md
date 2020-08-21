@@ -20,6 +20,7 @@
 * темы
 * вынесенные виджеты
 * экраны
+* навигация
 
 ### named routes and providers
 
@@ -48,7 +49,24 @@
 
 ### bitcoin tracker
 
-* обращение к внешнему серверу за данными
+* обращение к внешнему серверу за данными, async/await
 * контроллер данных в одном файле
-* Android/iOS виджеты
-* DropDownMenu
+* Android/iOS виджеты, управление платформами
+* DropDown Menu
+
+### flash chat
+
+* firebase
+* hero animation
+* mixins
+* streams
+* animations
+* curves animations
+* external packages animations
+
+### todoey
+
+* state management - provider v3
+* ListBuilder
+* flutter bottomsheet
+* Modal Window
