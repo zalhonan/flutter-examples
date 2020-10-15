@@ -70,3 +70,8 @@
 * ListBuilder
 * flutter bottomsheet
 * Modal Window
+
+### sharing-export
+
+* выгрузка виджета в bytes и отображение на экране как картинки из bytes
+* шаринг bytes как картинки без дополнительных разрешений
