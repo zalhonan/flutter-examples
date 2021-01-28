@@ -89,3 +89,7 @@
 ### mobx_github_repos
 
 * пример работы MobX с внешним API
+
+### slivers-demo
+
+* пример работы со сливерами и SliverAppBar
