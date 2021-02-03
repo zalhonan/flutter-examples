@@ -93,3 +93,7 @@
 ### slivers-demo
 
 * пример работы со сливерами и SliverAppBar
+
+### easy_localization
+
+* локализация, смена языка
